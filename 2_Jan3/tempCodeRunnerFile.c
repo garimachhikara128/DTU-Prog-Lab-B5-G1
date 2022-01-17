@@ -1,1 +1,0 @@
-of count variable is %d\n", count
